@@ -7,3 +7,5 @@ change twice  not commit
 link origin  
 
 branch checkout !!
+
+push checkout to the origin
